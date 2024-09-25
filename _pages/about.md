@@ -13,6 +13,6 @@ My research focuses on continuum robotics for minimally invasive surgery, surgic
 
 Contact me at pc_chen@zzu.edu.cn if you want to discuss collaborations, research,or other opportunities!
 
-You can find my CV: Pengchong's Curriculum Vitae(../assets/CV_Pengchong.pdf).
+You can find my CV: [Pengchong's Curriculum Vitae](../assets/CV_Pengchong.pdf).
 
 ======
